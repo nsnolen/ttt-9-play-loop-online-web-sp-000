@@ -39,7 +39,6 @@ def play(board)
   turn(board) == 0
    while turn(board) > 9 do
    puts turn(board)
-   turn(board) += 1
   end
 end
 

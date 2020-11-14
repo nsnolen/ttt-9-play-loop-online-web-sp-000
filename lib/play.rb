@@ -37,7 +37,6 @@ end
 
 def play(board)
  9.index(board)
-    end
 
 end
 

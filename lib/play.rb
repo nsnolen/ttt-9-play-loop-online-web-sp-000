@@ -38,7 +38,7 @@ end
 def play(board)
  9.times do
    index(board)
-
+end
 end
 
 

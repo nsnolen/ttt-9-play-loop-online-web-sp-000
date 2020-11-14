@@ -37,7 +37,7 @@ end
 
 def play(board)
  loop do
-   turn(board)
+   turn(board) <9
    break
   end
 end

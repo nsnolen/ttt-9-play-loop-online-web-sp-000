@@ -37,8 +37,11 @@ end
 
 def play(board)
   loop do
-    turn(board) == 0
-    if turn(board) > 9
+    index == 0
+    while index > 9
+      index += 1
+      puts turn(board)
+    
     end
 
 

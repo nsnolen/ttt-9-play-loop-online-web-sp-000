@@ -40,7 +40,7 @@ def play(board)
    while turn(board) > 9 do
      turn(board) =+ 1
    puts turn(board)
-   
+
   end
 end
 

@@ -36,11 +36,11 @@ def turn(board)
 end
 
 def play(board)
-  loop do 
+  loop do
     turn(board) += 1
     if turn(bood) > 9
     end
-  
+
 
   end
 end

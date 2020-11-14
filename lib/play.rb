@@ -36,7 +36,7 @@ def turn(board)
 end
 
 def play(board)
- 10.times do 
+ 10.times do
    .index(board)
 
 end

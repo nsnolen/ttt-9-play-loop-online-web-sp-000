@@ -38,8 +38,7 @@ end
 def play(board)
   loop do
     index == 0
-    while index > 9
-      index += 1
+    while index >= 9
       puts turn(board)
 
     end

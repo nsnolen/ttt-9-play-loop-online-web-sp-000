@@ -41,7 +41,7 @@ def play(board)
     while index > 9
       index += 1
       puts turn(board)
-    
+
     end
 
 
